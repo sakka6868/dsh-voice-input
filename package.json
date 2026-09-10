@@ -1,6 +1,6 @@
 {
   "name": "@sakka6868/dsh-voice-input",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DeepSeek Harness Web UI 语音输入插件：发送按钮左侧的麦克风按钮，调用浏览器 Web Speech API（Edge 中即微软语音服务）实时把语音转成文字写入输入框，停止后自动校对（错别字/同音偏差/繁体转简体/标点）。支持 Ctrl+Shift+M 快捷键，零依赖、无需 API Key。",
   "license": "MIT",
   "type": "module",
