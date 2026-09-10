@@ -3,6 +3,7 @@
 > DeepSeek Harness Web UI 的「语音输入」插件 —— 点一下麦克风（或按 `Ctrl+Shift+M`），边说边把话实时变成输入框里的文字，停止后自动校对。
 
 [![npm version](https://img.shields.io/npm/v/@sakka6868/dsh-voice-input)](https://www.npmjs.com/package/@sakka6868/dsh-voice-input)
+[![GitHub](https://img.shields.io/badge/github-sakka6868%2Fdsh--voice--input-181717?logo=github)](https://github.com/sakka6868/dsh-voice-input)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![language](https://img.shields.io/badge/plain%20javascript-ES2020-yellow)
 ![dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)
